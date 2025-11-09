@@ -1,41 +1,19 @@
-# Website
+# Rhiesearch / 연구 일지 배포
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+아래 구조의 내용들을 배포하여 사이트 접근이 가능하도록 함
 
-## Installation
-
-```bash
-yarn
+```sh
+.
+├── explorer          ➡️ [ 🧭 연구 일지 배포 ]
+├── journal           ➡️ [ 🚀 기술 흐름 탐색 ]
+│   ├── information   / ➡ [ 🚀 / 정보 수집 ]
+│   └── review        / ➡ [ 🚀 / 활용 리뷰 ]
+└── knowledge         ➡️ [ 📚 기술 탐구 기록 ]
+│   ├── environments  / ➡ [ 📚 / cs, algorithm, ... ]
+│   ├── externals     / ➡ [ 📚 / IEEE, RFC, ...]
+│   ├── fundamentals  / ➡ [ 📚 / infra, installation, ...]
+│   ├── languages     / ➡ [ 📚 / java, python, ...]
+│   ├── platforms     / ➡ [ 📚 / libraries, frameworks, ...]
+│   └── standards     / ➡ [ 📚 / AWS, Third-Party API, ...]
+└── sandbox           ⛔️(배포 제외) [ 🏗️ 기술 실험 공간 ]
 ```
-
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

@@ -1,7 +1,7 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import path from "path"
+import path from "path";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -77,9 +77,9 @@ const config: Config = {
         blogSidebarCount: "ALL",
         sortPosts: "ascending",
         blogSidebarTitle: "All posts",
-        onInlineTags: 'warn',
-        onInlineAuthors: 'warn',
-        onUntruncatedBlogPosts: 'warn',
+        onInlineTags: "warn",
+        onInlineAuthors: "warn",
+        onUntruncatedBlogPosts: "warn",
         feedOptions: {
           type: "all",
           title: "Rhiesearch",
@@ -102,19 +102,24 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    // Replace with your project's social card
+    blog: {
+      sidebar: {
+        groupByYear: false,
+      },
+    },
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
       title: "Rhiesearch",
+      // hideOnScroll: true,
       logo: {
         alt: "Logo",
         src: "img/logo.svg",
       },
       items: [
-        { to: "/journal", label: "🚄 Journal", position: "left" },
-        { to: "/knowledge", label: "📚 Knowledge", position: "left"},
+        { to: "/journal", label: "🚀 Journal ", position: "left" },
+        { to: "/knowledge", label: "📚 Knowledge", position: "left" },
         {
           href: "https://github.com/rhie-coder/rhiesearch",
           label: "GitHub",
@@ -144,6 +149,10 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    themes: ['@docusaurus/theme-mermaid'],
+    markdown: {
+      mermaid: true,
     },
   } satisfies Preset.ThemeConfig,
 };

@@ -1,0 +1,371 @@
+[
+            {
+                "start": 8449,
+                "end": 68555,
+                "score": 98,
+                "reason": "일부 세그먼트가 미완성 구절로 끝나 자연스러움 저하, 구어체적 쉼표 남용",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 68555,
+                "end": 134435,
+                "score": 98,
+                "reason": "중간 끊김·미완성 문장 다수로 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 134435,
+                "end": 194944,
+                "score": 98,
+                "reason": "일부 세그먼트 미완성·중단 어구 존재, 분절 약간 부자연",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 194944,
+                "end": 247844,
+                "score": 98,
+                "reason": "미완성 세그먼트와 단문 반복으로 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 247844,
+                "end": 306855,
+                "score": 85,
+                "reason": "‘플로이드’ 용어 부자연/오표기 의심, 문장 반복·미완성으로 분절 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 306855,
+                "end": 370959,
+                "score": 93,
+                "reason": "‘유체 역학/유체역학’ 띄어쓰기 불일치, 일부 문장 분절 다소 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 374850,
+                "end": 437954,
+                "score": 98,
+                "reason": "전문용어 일관성 양호, 몇몇 문장 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 437954,
+                "end": 501495,
+                "score": 96,
+                "reason": "문장 단절·미완성 구간 일부 존재, 용어 표기는 일관",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 501495,
+                "end": 565225,
+                "score": 98,
+                "reason": "일부 문장 분절이 중간에 끊겨 어색함(연결어·의문형 연속 배치).",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 565225,
+                "end": 634065,
+                "score": 98,
+                "reason": "연속된 문장 단위가 여러 줄로 분할되어 약간 어색함.",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 634065,
+                "end": 687695,
+                "score": 98,
+                "reason": "문장 연결부에서 분절이 다소 부자연스러움(부분적 어미로 끝남).",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 687695,
+                "end": 751995,
+                "score": 98,
+                "reason": "중간 단위에서 문장 분절이 잦아 흐름이 약간 끊김.",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 751995,
+                "end": 815615,
+                "score": 99,
+                "reason": "일부 문장 분절이 과도하게 짧아 흐름이 다소 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 815615,
+                "end": 881934,
+                "score": 99,
+                "reason": "여러 문장이 짧게 분절되어 약간 부자연스러움",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 881934,
+                "end": 936585,
+                "score": 98,
+                "reason": "짧은 의문·감탄 분절 반복으로 흐름이 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 936585,
+                "end": 1003754,
+                "score": 99,
+                "reason": "문장 분절이 짧아 약간의 호흡 끊김",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1003754,
+                "end": 1062505,
+                "score": 88,
+                "reason": "전단율-점도 관계 서술 모순(박화↔증점 혼동), 일부 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": true
+            },
+            {
+                "start": 1062505,
+                "end": 1123134,
+                "score": 99,
+                "reason": "경미한 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1123134,
+                "end": 1185934,
+                "score": 99,
+                "reason": "경미한 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1185934,
+                "end": 1241694,
+                "score": 99,
+                "reason": "경미한 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1241694,
+                "end": 1307079,
+                "score": 100,
+                "reason": "문제 없음",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1307250,
+                "end": 1370045,
+                "score": 100,
+                "reason": "문제 없음",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1370045,
+                "end": 1432744,
+                "score": 99,
+                "reason": "일부 문장 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1432744,
+                "end": 1510244,
+                "score": 89,
+                "reason": "점성계수 차원 설명 상충(시간 역수 vs N·s/m²), 일부 문장 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": true
+            },
+            {
+                "start": 1510244,
+                "end": 1567375,
+                "score": 99,
+                "reason": "일부 문장 분절이 약간 어색함",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1567375,
+                "end": 1637704,
+                "score": 99,
+                "reason": "몇몇 구문이 절단되어 약간 어색함",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1637704,
+                "end": 1713434,
+                "score": 99,
+                "reason": "경미한 문장 분절 어색함",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1713434,
+                "end": 1768724,
+                "score": 93,
+                "reason": "속도 기호 대소문자 불일치(dV/dy의 V), 일부 문장 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": true,
+                "formulaYn": false
+            },
+            {
+                "start": 1768724,
+                "end": 1857119,
+                "score": 98,
+                "reason": "일부 문장 미완(마무리 없음) 및 분절 약간 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1857710,
+                "end": 1927295,
+                "score": 99,
+                "reason": "구어체 위주로 약간 어색한 표현 있으나 전반 양호",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1927295,
+                "end": 1988765,
+                "score": 91,
+                "reason": "‘점성/점도’ 용어 혼용, 한 문장 연결 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 1988765,
+                "end": 2051385,
+                "score": 99,
+                "reason": "문장 연결 약간 어색, 일부 구문 부자연",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2051385,
+                "end": 2114635,
+                "score": 99,
+                "reason": "일부 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2114635,
+                "end": 2176195,
+                "score": 92,
+                "reason": "‘드라이아이스’ 띄어쓰기 표기 불일치, 일부 단문 분절 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2176195,
+                "end": 2238715,
+                "score": 99,
+                "reason": "몇몇 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2238715,
+                "end": 2305244,
+                "score": 91,
+                "reason": "‘잠재…’ 용어 사용 혼재(열량/에너지/기화열), 일부 문장 분절 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2305244,
+                "end": 2366155,
+                "score": 95,
+                "reason": "수식(597.3−0.564t) 맥락/단위 불명확, 몇몇 문장 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": true
+            },
+            {
+                "start": 2366155,
+                "end": 2414900,
+                "score": 85,
+                "reason": "‘포화증기압’ 띄어쓰기 불일치, 도해 라벨 표현 혼동 가능(‘a처럼’/‘비처럼’), 일부 문장 미완·분절 어색",
+                "termYn": true,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2415130,
+                "end": 2489460,
+                "score": 100,
+                "reason": "전문용어·기호 표기 일관, 경미한 구어체 분절 외 문제 없음",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2489550,
+                "end": 2551155,
+                "score": 99,
+                "reason": "기호·수치 표기 일관, 마지막 문장 미완 등 약간의 분절 어색",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            },
+            {
+                "start": 2551155,
+                "end": 2618460,
+                "score": 99,
+                "reason": "일부 문장 분절 약간 어색함 외 용어·기호 일관",
+                "termYn": false,
+                "symbolYn": false,
+                "formulaYn": false
+            }
+        ]
